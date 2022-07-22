@@ -14,7 +14,6 @@ Keras-Preprocessing==1.1.2
 keras-vis==0.4.1
 kiwisolver==1.4.3
 voila
-io
 google.colab
 IPython.display
 PIL
