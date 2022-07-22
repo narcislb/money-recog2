@@ -15,6 +15,8 @@ keras-vis==0.4.1
 kiwisolver==1.4.3
 voila
 google.colab
-IPython
-pillow
-numpy
+ipython
+Pillow==7.1.2
+numpy==1.21.6
+html5lib==1.0.1
+tensorflow-estimator==2.8.0
