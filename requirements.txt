@@ -14,14 +14,10 @@ Keras-Preprocessing==1.1.2
 keras-vis==0.4.1
 kiwisolver==1.4.3
 voila
-google.colab
 ipython
 pillow==7.1.2
 numpy==1.21.6
 html5lib==1.0.1
-tensorboard
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
 tensorflow==2.8.2
 tensorflow-datasets==4.0.1
 tensorflow-estimator==2.8.0
