@@ -16,5 +16,5 @@ kiwisolver==1.4.3
 voila
 google.colab
 IPython
-piilow
+pillow
 numpy
