@@ -20,3 +20,4 @@ Pillow==7.1.2
 numpy==1.21.6
 html5lib==1.0.1
 tensorflow-estimator==2.8.0
+google-colab
