@@ -1,5 +1,6 @@
 fastai
 ipywidgets
+ipywebrtc
 jupyter
 jupyter-client
 jupyter-console
@@ -13,3 +14,10 @@ Keras-Preprocessing==1.1.2
 keras-vis==0.4.1
 kiwisolver==1.4.3
 voila
+PIL.Image
+PIL.ImageFilter
+io
+google.colab
+IPython.display
+PIL
+numpy
