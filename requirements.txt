@@ -1,16 +1,8 @@
 fastai
 ipywidgets
 ipywebrtc
-jupyter
-jupyter-client
-jupyter-console
-jupyter-core
-jupyterlab-pygments
-jupyterlab-widgets
 kaggle==1.5.12
 kapre==0.3.7
-keras==2.8.0
-Keras-Preprocessing==1.1.2
 keras-vis==0.4.1
 kiwisolver==1.4.3
 voila
