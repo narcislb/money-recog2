@@ -19,6 +19,6 @@ thinc==8.0.17
 typer==0.4.2
 numba==0.51.2
 -f https://download.pytorch.org/whl/torch_stable.html
-torchvision==0.9.1+cpu
+
 
 
