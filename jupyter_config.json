@@ -2,6 +2,6 @@
   "VoilaConfiguration": {
     "theme": "dark",
     "template": "gridstack"
-    "show_tracebacks": true
+    
   }
 }
